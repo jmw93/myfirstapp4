@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <student>
+        <name>홍길동</name>
+        <age>10</age>
+        <address>kape town</address>
+    </student>
+    <student>
+        <name>정민우</name>
+        <age>10</age>
+        <address>kape town</address>
+    </student>
+</person>

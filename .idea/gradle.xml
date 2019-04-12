@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/MyFragment" />
+            <option value="$PROJECT_DIR$/MyList" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app5" />
+            <option value="$PROJECT_DIR$/async" />
+            <option value="$PROJECT_DIR$/broadcast" />
+            <option value="$PROJECT_DIR$/database" />
+            <option value="$PROJECT_DIR$/drawable" />
+            <option value="$PROJECT_DIR$/googlemap" />
+            <option value="$PROJECT_DIR$/gson" />
+            <option value="$PROJECT_DIR$/implicitintentexam" />
+            <option value="$PROJECT_DIR$/jsonexample" />
+            <option value="$PROJECT_DIR$/myapp6" />
+            <option value="$PROJECT_DIR$/myserver" />
+            <option value="$PROJECT_DIR$/myservice" />
+            <option value="$PROJECT_DIR$/myvolley" />
+            <option value="$PROJECT_DIR$/project2exam" />
+            <option value="$PROJECT_DIR$/socket" />
+            <option value="$PROJECT_DIR$/textalert" />
+            <option value="$PROJECT_DIR$/thread" />
+            <option value="$PROJECT_DIR$/xml2" />
+            <option value="$PROJECT_DIR$/xmlpullparsing" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
